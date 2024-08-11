@@ -1,0 +1,62 @@
+.userInfo-container-background {
+  background-color: #d9f4f6;
+  gap: 40px;
+  padding: 40px;
+  max-width: 90vw;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+.userInfo-name {
+  color: #25292c;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 28.8px;
+}
+.userInfo-emial {
+  color: #6c757d;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 21.6px;
+}
+.userInfo-container-body {
+  background-color: #fffffc;
+  padding: 15px;
+  border-radius: 12px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+}
+.details-head {
+  color: #6c757d;
+  line-height: 24px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.details-body {
+  color: #25292c;
+  line-height: 21.6px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.userInfo-container-button {
+  margin-top: 16px;
+  border: 0;
+  color: #fffffc;
+  background-color: #25292c;
+  line-height: 26.4px;
+  font-size: 22px;
+  font-weight: 600;
+  padding: 12px 16px;
+  border-radius: 12px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+}

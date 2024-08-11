@@ -1,0 +1,6 @@
+.root-tree {
+  min-height: 100svh;
+}
+.root-tree * {
+  box-sizing: border-box;
+}

@@ -1,0 +1,17 @@
+.login-container-image {
+  background-color: #d9f4f6;
+}
+.login-container-image img {
+  width: 80%;
+}
+@media screen and (min-width: 700px) and (max-width: 991px) {
+  .login-container-image img {
+    width: 55%;
+  }
+}
+@media screen and (max-width: 991px) {
+  .login-container-image,
+  .login-container-form {
+    height: 50%;
+  }
+}

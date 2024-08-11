@@ -1,0 +1,26 @@
+nav {
+  padding: 0 !important;
+}
+nav * {
+  background-color: #d9f4f6;
+  color: #ff4b33 !important;
+}
+.navbar-toggler:focus {
+  box-shadow: none !important;
+}
+@media screen and (min-width: 992px) {
+  .home,
+  .login {
+    transition: text-decoration 2s;
+    text-decoration: none;
+    text-underline-offset: 5px;
+    -webkit-transition: text-decoration 2s;
+    -moz-transition: text-decoration 2s;
+    -ms-transition: text-decoration 2s;
+    -o-transition: text-decoration 2s;
+  }
+  .home:hover,
+  .login:hover {
+    text-decoration: underline;
+  }
+}

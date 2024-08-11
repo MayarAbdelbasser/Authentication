@@ -1,0 +1,32 @@
+input {
+  padding: 10px 16px;
+  border: 1px solid #bbd0ff;
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
+}
+label,
+.login-button {
+  line-height: 28.8px;
+  font-weight: 600;
+  font-size: 24px;
+}
+.login-button {
+  background-color: #25292c;
+  font-size: 20px;
+  margin-top: 40px;
+  color: #fffffc;
+  padding: 12px 16px;
+  border-radius: 12px;
+  -webkit-border-radius: 12px;
+  -moz-border-radius: 12px;
+  -ms-border-radius: 12px;
+  -o-border-radius: 12px;
+}
+
+.to-registar {
+  margin-top: 20px;
+  align-content: flex-start;
+}
